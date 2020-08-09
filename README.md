@@ -1,4 +1,4 @@
-# igh Resolution Human 3-D Digitization
+# High Resolution Human 3-D Digitization
 
 [![report](https://img.shields.io/badge/arxiv-report-red)](https://arxiv.org/pdf/2004.00452.pdf) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11z58bl3meSzo6kFqkahMa35G5jmh2Wgt?usp=sharing)
 
